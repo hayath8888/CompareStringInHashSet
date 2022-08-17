@@ -1,2 +1,2 @@
 # CompareStringInHashSet
-comparing to string using Set function HashSet
+comparing two string using Set function HashSet
